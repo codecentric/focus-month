@@ -1,5 +1,5 @@
 
-baseURL = 'http://example.org/'
+baseURL = 'https://codecentric.github.io/focus-month'
 languageCode = 'en-us'
 title = 'Focus Month'
 theme = 'hugo-book'

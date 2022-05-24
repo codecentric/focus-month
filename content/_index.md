@@ -4,7 +4,7 @@ type: docs
 ---
 
 # Focus Month
-![](/images/team_work.jpg)
+![](./images/team_work.jpg)
 
 {{< columns >}}
 ## Motivation

@@ -1,0 +1,15 @@
+{
+  "name": "Focus Month",
+  "short_name": "Focus Month",
+  "start_url": "/focus-month/",
+  "scope": "/focus-month/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/focus-month/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

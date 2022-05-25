@@ -38,5 +38,5 @@ Das Konzept ist eine Grass-Roots Lösung für unser Problem, denn so ticken wir 
 
 {{< columns >}}
 <--->
-![](/images/logo.png)
+![](./images/logo.png)
 {{< /columns >}}
